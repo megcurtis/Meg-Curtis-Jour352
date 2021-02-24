@@ -1,4 +1,4 @@
-/*Main Style */
+/*Style for my Resume */
 
 BODY {
   font-family: 'Open Sans', arial, sans-serif;
@@ -6,23 +6,43 @@ BODY {
   color:#444;
   font-weight:400;
 }
-
+/*banner name at top of page*/
 h1 {
   font-size:3em;
   text-transform:uppercase;
   text-align=center;
   color:#33485e;
 }
-
+/*Occupation*/
 strong {
   color:#33485e;
   text-transform:uppercase;
   font-size:1.5em;
 }
-
+/*Work Background Info*/
 h2{
   font-size:1.5em;
   text-transform:uppercase;
   background-color:#33485e;
   color:#fff;
 }
+/*Work Positions*/
+h3{
+  font-size:1.5em;
+  font-weight:600;
+}
+/*Location of Job*/
+h4{
+  font-size:1.5em;
+  font-weight:400;
+}
+/*Dates when Working*/
+h5{
+  font-size:1em;
+  font-weight:400;
+  font-style:italic;
+}
+
+<ul
+  font-size:1em;
+  >
