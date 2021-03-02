@@ -7,11 +7,14 @@ BODY {
   font-weight:400;
 }
 /*banner name at top of page*/
-h1 {
+.name {
   font-size:3em;
   text-transform:uppercase;
   text-align:center;
-  color:#33485e;
+  border-bottom-style: 1px #33485e;
+  width: 60%;
+  minimum-width: 300px;
+  margin: 0 auto;
 }
 /*Occupation*/
 strong {
