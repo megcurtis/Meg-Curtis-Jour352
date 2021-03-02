@@ -23,27 +23,41 @@ strong {
   font-size:1.5em;
 }
 /*Work Background Info*/
-h2{
+.sectionheader{
   font-size:1.5em;
   text-transform:uppercase;
   background-color:#33485e;
   color:#fff;
+  margin: 20px 0px 10px 0px;
+  width: 70%
+  minimum-width: 300px;
 }
 /*Work Positions*/
-h3{
+.jobtitle{
   font-size:1.5em;
   font-weight:600;
 }
 /*Location of Job*/
-h4{
-  font-size:1.5em;
+.organization{
+  font-size:1.25em;
   font-weight:400;
 }
 /*Dates when Working*/
-h5{
+.date{
   font-size:1em;
   font-weight:400;
   font-style:italic;
+  margin: 2px 0px 0px 0px;
+}
+
+.description{
+  margin: 10px 0px 10px 0px;
+}
+
+.menu{
+  margin: 0px;
+  padding: 0px;
+  text-align:center;
 }
 
 ul {
