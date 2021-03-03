@@ -7,7 +7,7 @@ BODY {
   font-weight:400;
 }
 
-.container {
+#container {
   width: 100%;
   max-width: 12000px;
   margin: 0 auto;
@@ -15,7 +15,7 @@ BODY {
 }
 
 /*banner name at top of page*/
-.name {
+#name {
   font-size:3em;
   text-transform:uppercase;
   border-bottom-style: 1px #33485e;
@@ -24,7 +24,7 @@ BODY {
   margin: 0 auto;
 }
 /*Occupation*/
-.title {
+#title {
   color:#33485e;
   text-transform:uppercase;
   font-size:1.5em;
@@ -71,11 +71,11 @@ BODY {
   display: inline;
 }
 
-.degrees{
+#degrees{
   margin: 5px 0px 0px 0px;
 }
 
-.do{
+#do{
   margin: 5px 0px 0px 0px;
 }
 
