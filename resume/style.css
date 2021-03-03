@@ -21,6 +21,7 @@ BODY {
   border-bottom-style: 1px #33485e;
   width: 60%;
   min-width: 300px;
+  text-align:center;
   margin: 0 auto;
 }
 /*Occupation*/
@@ -29,8 +30,8 @@ BODY {
   text-transform:uppercase;
   font-size:1.5em;
   font-weight: 600;
-  margin: 20px 0px 0px 0px;
   text-align:center;
+  margin: 20px 0px 0px 0px;
 }
 /*Work Background Info*/
 .sectionheader{
