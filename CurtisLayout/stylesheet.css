@@ -28,11 +28,11 @@ h1 {
   text-transform:uppercase;
   font-size: 18px;
   margin: 0 auto;
-  font-family:Helvetica,sans-serif;
+  font-family:Helvetica,"sans-serif";
 }
 
 #byline {
-  font-family: Helvetica,sans-serif;
+  font-family: Helvetica,"sans-serif";
   font-size: 14px;
   font-style:italic;
 }
@@ -44,10 +44,11 @@ p {
 
 blockquote {
   display: block;
+  color: green;
   font-family: Georgia, serif;
   font-style:bold;
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin-top: 25px;
+  margin-bottom: 25px;
   margin-left: 50px;
   margin-right: 50px;
   font-size: 18px;
