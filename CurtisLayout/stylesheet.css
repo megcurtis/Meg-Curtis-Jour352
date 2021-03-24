@@ -3,3 +3,22 @@
   margin: 0 auto;
   width: 900px;
 }
+
+#name {
+  font-size: 5em;
+  text-transform:uppercase;
+  border-bottom-style: solid black;
+  color: green;
+  width: 50%
+  min-width: 400px;
+  text-align:center;
+  margin: 0 auto;
+}
+
+#title {
+  color: black;
+  text-transform:uppercase;
+  font-size:3em;
+  text-align:center;
+  margin: 0 auto;
+}
