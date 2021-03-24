@@ -9,7 +9,7 @@
   text-transform:uppercase;
   border-bottom-style: solid black;
   color: green;
-  width: 50%
+  width: 50%;
   min-width: 400px;
   text-align:center;
   margin: 0 auto;
@@ -40,4 +40,14 @@ h1 {
 p {
   font-family: Georgia, serif;
   font-size: 13px;
+}
+
+blockquote {
+  display: block;
+  font-family: Georgia, serif;
+  font-style: bold;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: 50px;
+  margin-right: 50px;
 }
