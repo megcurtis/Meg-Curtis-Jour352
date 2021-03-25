@@ -50,6 +50,13 @@ font-size: 18px;
 color: black;
 }
 
+h3 {
+font-family: serif;
+font-size: 18px;
+color: black;
+text-align: center;
+}
+
 blockquote {
   display: block;
   color: purple;
