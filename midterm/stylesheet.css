@@ -1,0 +1,49 @@
+#content{
+  margin: 0 auto;
+  width: 1000px;
+}
+
+#name {
+  font-size: 20px;
+  text-transform:uppercase;
+  border-bottom-style: solid black;
+  color: black;
+  width: 50%;
+  min-width: 300px;
+  text-align:center;
+  margin: 0 auto;
+  font-family:serif;
+}
+
+#title {
+  color: black;
+  text-transform:uppercase;
+  font-size:18px;
+  text-align:center;
+  margin: 0 auto;
+  font-family:sans-serif;
+}
+
+#byline {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-style:italic;
+  color: black;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
+h1{
+  font-family: serif;
+  font-size: 18px;
+  color: black;
+}
+
+h2 {
+font-family: serif;
+font-size: 18px;
+color: black;
+}
