@@ -1,43 +1,93 @@
 BODY {
-
+  font-weight: 500;
 }
 
 #container {
-
+  width: 100%;
+  max-width: 12000px;
+  margin: 0 auto;
+  padding-bottom: 40px;
 }
 
 #name {
-
+  text-transform: capitalize;
+  font-style: bold;
+  color: black;
+  text-align: center;
+  letter-spacing: 2px;
+  margin: 0 auto;
+  font-family: sans-serif, serif;
 }
 
 #title {
-
+  color: black;
+  text-align: center;
+  letter-spacing: 4px;
+  margin: 0 auto;
+  font-family: sans-serif, serif;
 }
 
 #header {
-
+  color: white;
+  font-family: arial, 'Times New Roman';
+  font-size: 26px;
+  text-align: center;
+  text-transform:uppercase;
+  margin: 0 auto;
 }
 
-.sectionheader {
+.subheader {
+  color: blue;
+  font-family: arial, 'Times New Roman';
+  font-size: 30px;
+  text-align: center;
+  text-transform:uppercase;
+  margin: 0 auto;
+}
 
+h1 {
+  text-align: left;
+  color: white;
+  font-family: serif, 'Times New Roman';
+}
+
+h2 {
+  text-align: right;
+  color: white;
+  font-family: serif, 'Times New Roman';
 }
 
 .jobtitle {
-
+  font-style: bold;
+  color: white;
+  font-family: serif, 'Times New Roman';
+  font-size: 28px;
 }
 
 .organization {
-
+  font-style: italic bold;
+  color: white;
+  font-family: serif, 'Times New Roman';
+  font-size: 28px;
 }
 
 .date {
-
+  color: white;
+  font-family: serif, 'Times New Roman';
+  font-style: italic;
+  font-size: 24px;
 }
 
 .description {
+  font-family: serif, 'Times New Roman';
+  color: white;
+  font-size: 20px;
+}
 
+#degrees {
+    margin: 5px 0px 0px 0px;
 }
 
 #do {
-
+    margin: 5px 0px 0px 0px;
 }
