@@ -16,7 +16,7 @@ BODY {
   text-align: center;
   letter-spacing: 2px;
   margin: 0 auto;
-  font-family: sans-serif, serif;
+  font-family: sans-serif, serif, 'Times New Roman';
   font-size: 36px;
 }
 
@@ -25,7 +25,7 @@ BODY {
   text-align: center;
   letter-spacing: 4px;
   margin: 0 auto;
-  font-family: sans-serif, serif;
+  font-family: sans-serif, serif, 'Times New Roman';
   font-size: 30px;
 }
 
