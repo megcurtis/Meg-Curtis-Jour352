@@ -1,0 +1,126 @@
+BODY {
+  background-image: url ("jess-bailey-q10VITrVYUM-unsplash.png");
+  background-color: white;
+}
+
+#container {
+  width: 100%;
+  max-width: 12000px;
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
+
+#name {
+  text-transform: capitalize;
+  font-style: bold;
+  color: black;
+  text-align: center;
+  letter-spacing: 2px;
+  margin: 0 auto;
+  font-family: sans-serif, serif, 'Times New Roman';
+  font-size: 36px;
+}
+
+#title {
+  color: black;
+  text-align: center;
+  letter-spacing: 4px;
+  margin: 0 auto;
+  font-family: sans-serif, serif, 'Times New Roman';
+  font-size: 30px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+#header {
+  color: white;
+  font-family: arial, 'Times New Roman';
+  font-size: 24px;
+  text-align: center;
+  text-transform:uppercase;
+  margin: 0 auto;
+}
+
+.subheader {
+  color: blue;
+  font-family: arial, 'Times New Roman';
+  font-size: 22px;
+  text-align: center;
+  text-transform:uppercase;
+  margin: 0 auto;
+}
+
+.boxed{
+  border: 1px #b785a7;
+}
+
+h1 {
+  text-align: left;
+  color: white;
+  font-family: serif, 'Times New Roman';
+}
+
+h2 {
+  text-align: right;
+  color: white;
+  font-family: serif, 'Times New Roman';
+}
+
+.jobtitle {
+  font-style: bold;
+  color: white;
+  font-family: serif, 'Times New Roman';
+  font-size: 20px;
+}
+
+.organization {
+  font-style: italic bold;
+  color: white;
+  font-family: serif, 'Times New Roman';
+  font-size: 20px;
+}
+
+.date {
+  color: white;
+  font-family: serif, 'Times New Roman';
+  font-style: italic;
+  font-size: 18px;
+}
+
+.description {
+  font-family: serif, 'Times New Roman';
+  color: white;
+  font-size: 16px;
+}
+
+.header1 {
+  color: blue;
+  font-family: arial, 'Times New Roman';
+  font-size: 22px;
+  text-align: left;
+  text-transform:uppercase;
+  margin: 0 auto;
+  letter-spacing: 1px;
+}
+
+.header2 {
+  color: blue;
+  font-family: arial, 'Times New Roman';
+  font-size: 22px;
+  text-align: right;
+  text-transform:uppercase;
+  margin: 0 auto;
+  letter-spacing: 1px;
+}
+
+#degrees {
+    margin: 5px 0px 0px 0px;
+    text-align: left;
+}
+
+#do {
+    margin: 5px 0px 0px 0px;
+    text-align: right;
+}
