@@ -52,6 +52,10 @@ img {
   margin: 0 auto;
 }
 
+.boxed{
+  border: 1px #b785a7;
+}
+
 h1 {
   text-align: left;
   color: white;
