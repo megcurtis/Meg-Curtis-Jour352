@@ -1,5 +1,6 @@
 BODY {
-  font-weight: 500;
+  background-image: url ("jess-bailey-q10VITrVYUM-unsplash.png");
+  background-color: white;
 }
 
 #container {
@@ -27,6 +28,10 @@ BODY {
   margin: 0 auto;
   font-family: sans-serif, serif, 'Times New Roman';
   font-size: 30px;
+}
+
+img {
+  border-radius: 50%;
 }
 
 #header {
