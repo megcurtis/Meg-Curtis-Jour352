@@ -57,7 +57,8 @@ img {
 }
 
 .boxed{
-  border: 1px #b785a7;
+  border: 1px;
+  background-color:#b785a7;
 }
 
 h1 {
