@@ -9,6 +9,10 @@ BODY {
   padding-bottom: 40px;
 }
 
+#row {
+  margin: 0 auto;
+}
+
 #name {
   text-transform: capitalize;
   font-style: bold;
