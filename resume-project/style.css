@@ -76,7 +76,7 @@ h1 {
 }
 
 h2 {
-  text-align: right;
+  text-align: left;
   color: black;
   font-family: serif, 'Times New Roman';
 }
@@ -135,5 +135,5 @@ h2 {
 
 #do {
     margin: 5px 0px 0px 0px;
-    text-align: right;
+    text-align: left;
 }
