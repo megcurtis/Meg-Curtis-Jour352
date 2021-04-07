@@ -49,6 +49,7 @@ img {
 p {
   font-family: arial, "sans-serif";
   font-size: 14px;
+  width: 100%;
 }
 
 body {
@@ -59,8 +60,9 @@ font-size: 14px;
 }
 
 footer {
-  text-align: center;
+  text-align: right;
   font-family: arial, "sans-serif";
   color: black;
   font-size: 16 px;
+  font-style: bold;
 }
