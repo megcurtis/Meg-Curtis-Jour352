@@ -1,0 +1,48 @@
+
+#content {
+  margin: 0 auto;
+  width: 800px;
+}
+
+#name {
+  font-size: 20px;
+  text-transform:uppercase;
+  color: black;
+  width: 60%;
+  min-width: 500px;
+  text-align:center;
+  margin: 0 auto;
+}
+
+#title {
+  color: black;
+  text-transform:uppercase;
+  font-size:18px;
+  text-align:center;
+  margin: 0 auto;
+}
+
+h1 {
+  text-transform:uppercase;
+  font-size: 20px;
+  margin: 0 auto;
+  font-family: arial,"sans-serif";
+}
+
+#byline {
+  font-family: arial,"sans-serif";
+  font-size: 16px;
+  font-style:italic;
+}
+
+p {
+  font-family: arial, "sans-serif";
+  font-size: 14px;
+}
+
+body {
+font-family: arial, "sans-serif";
+text-align: left;
+color: black;
+font-size: 14px; 
+}
