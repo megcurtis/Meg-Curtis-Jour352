@@ -41,6 +41,11 @@ h1 {
   font-style:italic;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 p {
   font-family: arial, "sans-serif";
   font-size: 14px;
@@ -51,4 +56,11 @@ font-family: arial, "sans-serif";
 text-align: left;
 color: black;
 font-size: 14px;
+}
+
+footer {
+  text-align: center;
+  font-family: arial, "sans-serif";
+  color: black;
+  font-size: 16 px;
 }
