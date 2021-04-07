@@ -5,13 +5,13 @@
 }
 
 #name {
-  font-size: 20px;
+  font-size: 26px;
   text-transform:uppercase;
   color: black;
-  width: 60%;
-  min-width: 500px;
+  width: 80%;
   text-align:center;
   margin: 0 auto;
+  font-style: bold;
 }
 
 #title {
@@ -20,6 +20,7 @@
   font-size:22px;
   text-align:center;
   margin: 0 auto;
+  font-style: bold;
 }
 
 h1 {
@@ -27,13 +28,9 @@ h1 {
   font-size: 20px;
   margin: 0 auto;
   font-family: arial,"sans-serif";
+  font-style: bold;
 }
 
-#headline {
-  font-family: arial,"sans-serif";
-  font-size: 26px;
-  font-style:bold;
-  text-align: center;
 }
 #byline {
   font-family: arial,"sans-serif";
