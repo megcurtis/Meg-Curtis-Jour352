@@ -30,6 +30,14 @@ h1 {
   font-style: bold;
 }
 
+h2 {
+  text-transform: uppercase;
+  font-size: 18px;
+  font-family: arial, "sans-serif";
+  font-style: bold;
+  margin: 0 auto;
+}
+
 }
 #byline {
   font-family: arial,"sans-serif";
