@@ -10,7 +10,7 @@
   color: black;
   text-align:center;
   margin: 0 auto;
-  font-style: bold;
+  font-weight: bold;
   font-family: "Times New Roman", serif;
 }
 
@@ -20,7 +20,7 @@
   font-size:22px;
   text-align:center;
   margin: 0 auto;
-  font-style: bold;
+  font-weight: bold;
   font-family: "Times New Roman", serif;
 }
 
@@ -29,7 +29,7 @@ h1 {
   font-size: 20px;
   margin: 0 auto;
   font-family: "Times New Roman","sans-serif";
-  font-style: bold;
+  font-weight: bold;
   color: red;
 }
 
@@ -37,7 +37,7 @@ h2 {
   text-transform: uppercase;
   font-size: 18px;
   font-family: "Times New Roman", "sans-serif";
-  font-style: bold;
+  font-weight: bold;
   margin: 0 auto;
 }
 
@@ -45,7 +45,8 @@ h2 {
 #byline {
   font-family: "Times New Roman","sans-serif";
   font-size: 18px;
-  font-style:italic bold;
+  font-weight: bold;
+  font-style: italic;
 }
 
 img {
@@ -78,7 +79,8 @@ blockquote{
   font-size: 18px;
   width: 100%;
   color: red;
-  font-style: bold italic;
+  font-weight: bold;
+  font-style: italic;
 }
 
 .sidenav {
@@ -88,8 +90,6 @@ blockquote{
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: white;
-  overflow-x: hidden;
   padding-top: 25px;
 }
 
@@ -98,5 +98,5 @@ footer {
   font-family: "Times New Roman", "sans-serif";
   color: red;
   font-size: 16px;
-  font-style: bold;
+  font-weight: bold;
 }
