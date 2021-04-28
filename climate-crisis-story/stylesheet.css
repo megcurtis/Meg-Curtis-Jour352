@@ -45,7 +45,7 @@ h2 {
 #byline {
   font-family: "Times New Roman","sans-serif";
   font-size: 18px;
-  font-style:italic;
+  font-style:italic bold;
 }
 
 img {
@@ -78,7 +78,7 @@ blockquote{
   font-size: 18px;
   width: 100%;
   color: red;
-  font-style: bold, italic;
+  font-style: bold italic;
 }
 
 footer {
