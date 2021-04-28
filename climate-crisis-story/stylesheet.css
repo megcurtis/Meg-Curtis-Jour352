@@ -5,12 +5,13 @@
 }
 
 #name {
-  font-size: 26px;
+  font-size: 28px;
   text-transform:uppercase;
   color: black;
   text-align:center;
   margin: 0 auto;
   font-style: bold;
+  font-family: "Times New Roman", serif;
 }
 
 #title {
@@ -20,27 +21,29 @@
   text-align:center;
   margin: 0 auto;
   font-style: bold;
+  font-family: "Times New Roman", serif;
 }
 
 h1 {
   text-transform:uppercase;
   font-size: 20px;
   margin: 0 auto;
-  font-family: arial,"sans-serif";
+  font-family: "Times New Roman","sans-serif";
   font-style: bold;
+  color: red;
 }
 
 h2 {
   text-transform: uppercase;
   font-size: 18px;
-  font-family: arial, "sans-serif";
+  font-family: "Times New Roman", "sans-serif";
   font-style: bold;
   margin: 0 auto;
 }
 
 }
 #byline {
-  font-family: arial,"sans-serif";
+  font-family: "Times New Roman","sans-serif";
   font-size: 18px;
   font-style:italic;
 }
@@ -51,22 +54,37 @@ img {
 }
 
 p {
-  font-family: arial, "sans-serif";
+  font-family: "Times New Roman", "sans-serif";
   font-size: 14px;
   width: 100%;
 }
 
 body {
-font-family: arial, "sans-serif";
-text-align: left;
-color: black;
-font-size: 14px;
+  font-family: "Times New Roman", "sans-serif";
+  text-align: left;
+  color: black;
+  font-size: 14px;
+}
+
+figcaption {
+  font-family: "Times New Roman", "sans-serif";
+  text-align: center;
+  color: black;
+  font-size: 14px;
+}
+
+blockquote{
+  font-family: serif,"Times New Roman";
+  font-size: 18px;
+  width: 100%;
+  color: pink;
+  font-style: bold, italic;
 }
 
 footer {
-  text-align: right;
-  font-family: arial, "sans-serif";
-  color: black;
-  font-size: 16 px;
+  width: 100%;
+  font-family: "Times New Roman", "sans-serif";
+  color: red;
+  font-size: 16px;
   font-style: bold;
 }
