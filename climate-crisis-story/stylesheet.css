@@ -96,6 +96,22 @@ blockquote{
   transition: 0.5s;
 }
 
+a {
+  color: black;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: black;
+}
+
 footer {
   width: 100%;
   font-family: "Times New Roman", "sans-serif";
