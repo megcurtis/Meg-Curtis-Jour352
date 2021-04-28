@@ -81,6 +81,18 @@ blockquote{
   font-style: bold italic;
 }
 
+.sidenav {
+  height: 100%;
+  width: 150px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: white;
+  overflow-x: hidden;
+  padding-top: 25px;
+}
+
 footer {
   width: 100%;
   font-family: "Times New Roman", "sans-serif";
