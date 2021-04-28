@@ -77,6 +77,11 @@ h3 {
   text-align: center;
 }
 
+.pullquote {
+  margin: 0 auto;
+  width: 500px;
+}
+
 figcaption {
   font-family: "Times New Roman", "sans-serif";
   text-align: center;
