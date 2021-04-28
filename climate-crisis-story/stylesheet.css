@@ -67,6 +67,13 @@ body {
   font-size: 14px;
 }
 
+div {
+  box-sizing: border-box;
+  width: 50%;
+  border: 10 px solid red;
+  text-align: center;
+}
+
 figcaption {
   font-family: "Times New Roman", "sans-serif";
   text-align: center;
@@ -81,19 +88,6 @@ blockquote{
   color: red;
   font-weight: bold;
   font-style: italic;
-}
-
-.sidenav {
-  height: 100%;
-  width: 100px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: white;
-  overflow-x: hidden;
-  padding-top: 25px;
-  transition: 0.5s;
 }
 
 a {
