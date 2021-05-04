@@ -54,6 +54,15 @@ ficaption {
   color: black;
 }
 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
+
 p {
   font-family: arial, "sans-serif";
   font-size: 14px;
