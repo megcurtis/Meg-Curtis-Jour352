@@ -10,7 +10,9 @@
   color: black;
   text-align:center;
   margin: 0 auto;
-  font-style: bold;
+  font-weight: bold;
+  font-family: "Times New Roman", arial;
+  background-color: red;
 }
 
 #title {
@@ -19,7 +21,9 @@
   font-size:22px;
   text-align:center;
   margin: 0 auto;
-  font-style: bold;
+  font-weight: bold;
+  font-family: "Times New Roman", arial;
+  background-color: red;
 }
 
 h1 {
@@ -27,7 +31,7 @@ h1 {
   font-size: 20px;
   margin: 0 auto;
   font-family: arial,"sans-serif";
-  font-style: bold;
+  font-weight: bold;
 }
 
 }
