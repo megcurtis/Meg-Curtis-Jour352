@@ -83,11 +83,11 @@ blockquote {
   font-family: "sans-serif", "Times New Roman";
   color: red;
   text-align: center;
-  font-size: 30px;
+  font-size: 26px;
   width: 100%;
   font-style: italic;
   font-weight: bold;
-  border: 1px dashed black;
+  border: 0.5px dashed black;
   line-height: 50px;
   padding: 20px 30px;
   margin: 30px 20px;
