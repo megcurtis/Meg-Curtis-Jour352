@@ -91,6 +91,22 @@ blockquote {
   margin: 30px 20px;
 }
 
+a {
+  color: black;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: black;
+}
+
 footer {
   text-align: right;
   font-family: "Times New Roman", "sans-serif";
